@@ -1,12 +1,14 @@
 name: wiby
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - master
   pull_request_target:
     types: [ labeled ]
 
 env:
-  WIBY_CHECK_NAME: "wiby"
+  WIBY_CHECK_NAME: "body-parser"
   WIBY_NODE_VERSION: 14
 
 jobs:
