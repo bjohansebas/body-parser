@@ -1,8 +1,7 @@
 {
     "dependents": [
         {
-            "repository": "git://github.com/expressjs/express",
-            "pullRequest": true
+            "repository": "git+https://github.com/expressjs/express"
         }
     ]
 }
