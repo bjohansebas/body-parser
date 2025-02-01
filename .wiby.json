@@ -1,7 +1,7 @@
 {
     "dependents": [
         {
-            "repository": "git+https://github.com/expressjs/express"
+            "repository": "git+https://github.com/bjohansebas/express"
         }
     ]
 }
