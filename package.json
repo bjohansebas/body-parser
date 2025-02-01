@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/express/body-parser.git"
+    "url": "git+https://github.com/bjohansebas/body-parser.git"
   },
   "dependencies": {
     "bytes": "3.1.2",
