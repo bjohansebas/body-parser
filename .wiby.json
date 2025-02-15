@@ -1,7 +1,8 @@
 {
     "dependents": [
         {
-            "repository": "git+https://github.com/bjohansebas/express"
+            "repository": "git+https://github.com/bjohansebas/express",
+            "pullRequest": true
         }
     ]
 }
