@@ -31,7 +31,7 @@
     "mocha": "10.2.0",
     "nyc": "15.1.0",
     "supertest": "6.3.3",
-    "wiby": "^0.10.1"
+    "wiby": "pkgjs/wiby#option-branch"
   },
   "files": [
     "lib/",
