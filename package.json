@@ -7,7 +7,10 @@
     "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)"
   ],
   "license": "MIT",
-  "repository": "expressjs/body-parser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjohansebas/body-parser.git"
+  },
   "dependencies": {
     "bytes": "3.1.2",
     "content-type": "~1.0.5",
